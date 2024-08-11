@@ -26,14 +26,15 @@ social: true # includes social icons at the bottom of the page
 [//]: # ()
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
-Hey there, welcome to my homepage!! I am a computer science researcher in the Department of Computer Science at UNC Charlotte. I am exploring how AI techniques can revolutionize robotics and computer vision by enabling the monitoring of human movement disorders without the need for motion capture laboratories (MoCap).
-I received my double Masters’s degrees in computer science and chemistry from East Carolina University University (ECU). During my time at ECU, I had the pleasure of working with [Dr. Paul Gemperline](https://chemistry.ecu.edu/faculty-staff/gemperlinep/) and [Dr. Nasseh Tabrizi](https://cet.ecu.edu/csci/about-us/faculty-staff/tabrizi/) on research focusing on AI, machine learning techniques, and tensor decomposition methods to identify genes significantly associated with colon cancer susceptibility. In my free time, I enjoy hiking, tennis, photography, and spending time with my friends.
+I am a PhD student in Computer Science at UNCC, focusing on the security of Large Language Models. My research focuses on testing these models and applying them to software engineering and cybersecurity tasks. I am deeply passionate about enhancing AI security, with a particular emphasis on making AI models more robust, trustworthy, and understandable in adversarial settings across various contexts, including networks and software. I am enthusiastic about using AI to improve security measures and ensuring the safety of AI itself.
 \\
+I love connecting with other tech enthusiasts and professionals. If you want to collaborate, have a challenging question, or just want to chat about the latest developments in AI and cybersecurity, please feel free to reach out!
 \\
 \\
 \\
 Education:
-- M.Sc. in Chemistry & Computer Science (Dual Degree), East Carolina University
-- B.Sc. in Chemistry, Sharif University of Technology
+
+- M.Sc. in Computer Science, University of North Carolina at Charlotte
+- B.Sc. in Electrical Engineering, Iran University of Science and Technology
 
 
