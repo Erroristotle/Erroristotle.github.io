@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-# Courses Taken
+# Courses
 
 #### ITCS 8114: Algorithms & Data Structures
 
@@ -62,11 +62,11 @@ nav_order: 4
 
 ---
 
-## Certifications
+## Online Courses
 
-- **HCNA (Huawei Certified Network Associate)** - Certified (official)
-- **CCNA (Cisco Certified Network Associate)** - Unofficial Certificate
-- **CCNP (Cisco Certified Network Professional)** - Self-study
-- **CCIE (Cisco Certified Internetwork Expert)** - Self-study
-- **CompTIA Network+ (Computing Technology Industry Association Network Plus)** - Unofficial certificate
-- **Linux LPIC-1 (Linux Professional Institute Certification Level 1)** - Unofficial certificate
+- **HCNA (Huawei Certified Network Associate)**
+- **CCNA (Cisco Certified Network Associate)** 
+- **CCNP (Cisco Certified Network Professional)**
+- **CCIE (Cisco Certified Internetwork Expert)**
+- **CompTIA Network+ (Computing Technology Industry Association Network Plus)** 
+- **Linux LPIC-1 (Linux Professional Institute Certification Level 1)** 
