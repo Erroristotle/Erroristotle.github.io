@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-# [Courses] (/assets/pdf/course_outline.pdf)
+# [Courses](/assets/pdf/course_outline.pdf)
 
 #### ITCS 8114: Algorithms & Data Structures
 
