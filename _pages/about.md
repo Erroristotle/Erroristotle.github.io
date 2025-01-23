@@ -37,4 +37,6 @@ Education:
 - M.Sc. in Computer Science, University of North Carolina at Charlotte
 - B.Sc. in Electrical Engineering, Iran University of Science and Technology
 
+Mentorship and Support 💪
+I dedicate 2 hours each week to mentoring and supporting students pursuing a PhD at universities. Whether it's guidance on research, career development, or navigating life as a graduate student, I'm here to help. I especially encourage individuals from underrepresented backgrounds to connect with me via email or any platform—your journey matters, and I’m here to support it.
 
