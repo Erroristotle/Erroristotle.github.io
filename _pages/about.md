@@ -26,9 +26,11 @@ social: true # includes social icons at the bottom of the page
 [//]: # ()
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
-I am a PhD student in Computer Science at UNCC, focusing on the security of Large Language Models. My research focuses on testing these models and applying them to software engineering and cybersecurity tasks. I am deeply passionate about enhancing AI security, with a particular emphasis on making AI models more robust, trustworthy, and understandable in adversarial settings across various contexts, including networks and software. I am enthusiastic about using AI to improve security measures and ensuring the safety of AI itself.
+I am a PhD student in Computer Science at UNCC, focusing on the security of Large Language Models. My primary research focus is vulnerability detection, which I have explored across networks, software, and AI systems. I have worked extensively on adversarial machine learning and am now leveraging LLM agents for automated vulnerability detection and program repair.
 \\
-I love connecting with other tech enthusiasts and professionals. If you want to collaborate, have a challenging question, or just want to chat about the latest developments in AI and cybersecurity, please feel free to reach out!
+My work revolves around testing AI models and applying them to software engineering and cybersecurity tasks. I am deeply passionate about improving AI security by making models more robust, trustworthy, and interpretable in adversarial settings. My goal is to improve security measures using AI while ensuring AI itself remains secure.
+\\
+I love connecting with other tech enthusiasts and professionals. If you're interested in collaboration, have a challenging question related to my research, or are working on similar security challenges, feel free to reach out!
 \\
 \\
 \\
