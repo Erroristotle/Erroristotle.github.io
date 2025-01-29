@@ -30,6 +30,8 @@ I am a PhD student in Computer Science at UNCC, focusing on the security of Larg
 \\
 My work revolves around testing AI models and applying them to software engineering and cybersecurity tasks. I am deeply passionate about improving AI security by making models more robust, trustworthy, and interpretable in adversarial settings. My goal is to improve security measures using AI while ensuring AI itself remains secure.
 \\
+\\
+\\
 I love connecting with other tech enthusiasts and professionals. If you're interested in collaboration, have a challenging question related to my research, or are working on similar security challenges, feel free to reach out!
 \\
 \\
