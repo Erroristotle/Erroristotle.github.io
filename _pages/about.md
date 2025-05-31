@@ -26,13 +26,13 @@ social: true # includes social icons at the bottom of the page
 [//]: # ()
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
-I am a PhD student in Computer Science at UNCC, focusing on the security of Large Language Models. My primary research focus is vulnerability detection, which I have explored across networks, software, and AI systems. I have worked extensively on adversarial machine learning and am now leveraging LLM agents for automated vulnerability detection and program repair.
+I am a Ph.D. student in Computer Science at the University of North Carolina at Charlotte, advised by [Dr. Marco Vieira](https://mpvieira.github.io/). My research focuses on **using Large Language Models (LLMs) for software security**, with a particular emphasis on **vulnerability detection**, **automated program repair**, and **dataset development** to support these tasks.
 \\
-My work revolves around testing AI models and applying them to software engineering and cybersecurity tasks. I am deeply passionate about improving AI security by making models more robust, trustworthy, and interpretable in adversarial settings. My goal is to improve security measures using AI while ensuring AI itself remains secure.
+I am currently working on building high-quality, task-specific datasets that enable more effective training and evaluation of LLMs for software vulnerability detection and patch generation. My broader background spans **network security**, **software security**, and **adversarial machine learning**. I apply LLMs to key tasks in **software engineering and cybersecurity**, such as static code analysis, patch synthesis, and secure code generation.
 \\
 \\
 \\
-I love connecting with other tech enthusiasts and professionals. If you're interested in collaboration, have a challenging question related to my research, or are working on similar security challenges, feel free to reach out!
+I love connecting with other tech enthusiasts and professionals. If you're interested in collaboration, have a challenging question related to my research, or are working on similar software and security challenges, feel free to reach out!
 \\
 \\
 \\
