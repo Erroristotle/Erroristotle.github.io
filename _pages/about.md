@@ -26,7 +26,7 @@ social: true # includes social icons at the bottom of the page
 [//]: # ()
 [//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
-I am a Ph.D. student in Computer Science at the University of North Carolina at Charlotte, advised by [Dr. Marco Vieira](https://mpvieira.github.io/). My research focuses on **using Large Language Models (LLMs) for software security**, with a particular emphasis on **vulnerability detection**, **automated program repair**, and **dataset development** to support these tasks.
+I am a Ph.D. student in Computer Science at the University of North Carolina at Charlotte, advised by <a href="https://mpvieira.github.io/" style="color:blue;">Dr. Marco Vieira</a>. My research focuses on **using Large Language Models (LLMs) for software security**, with a particular emphasis on **vulnerability detection**, **automated program repair**, and **dataset development** to support these tasks.
 \\
 I am currently working on building high-quality, task-specific datasets that enable more effective training and evaluation of LLMs for software vulnerability detection and patch generation. My broader background spans **network security**, **software security**, and **adversarial machine learning**. I apply LLMs to key tasks in **software engineering and cybersecurity**, such as static code analysis, patch synthesis, and secure code generation.
 \\
