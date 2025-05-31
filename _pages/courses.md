@@ -63,8 +63,6 @@ nav_order: 4
 ---
 
 ## Online Courses
-
-- **HCNA (Huawei Certified Network Associate)**
 - **CCNA (Cisco Certified Network Associate)** 
 - **CCNP (Cisco Certified Network Professional)**
 - **CCIE (Cisco Certified Internetwork Expert)**
